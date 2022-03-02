@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/705h-S/Social-Network-APi/issues"
   },
-  "homepage": "https://github.com/705h-S/Social-Network-APi#readme"
+  "homepage": "https://github.com/705h-S/Social-Network-APi#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
 }
