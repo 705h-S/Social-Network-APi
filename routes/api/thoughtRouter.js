@@ -1,7 +1,7 @@
 const router = require("express").Router();
 // getting controllers
 const {
-  getThoughts,
+  getAllThoughts,
   getSingleThought,
   createThought,
   updateThought,
