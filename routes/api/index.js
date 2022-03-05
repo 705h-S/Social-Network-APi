@@ -8,5 +8,5 @@ router.use('/thoughts', thoughtRoutes);
 
 module.exports = router;
 
-const router = require('express').Router();
+
 
