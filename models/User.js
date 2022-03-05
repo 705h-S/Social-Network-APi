@@ -1,7 +1,5 @@
 // https://mongoosejs.com/docs/guide.html
-import mongoose from "mongoose";
-
-const { Schema, model } = mongoose;
+const { Schema, model } = require('mongoose');
 
 // using regex to validate email
 var validateEmail = function (email) {
