@@ -66,7 +66,7 @@ http://localhost:3001
 
 Video of application running along with it's routes.
 <br>
-[Walkthrough](#)
+[Walkthrough](https://drive.google.com/file/d/1lb9bofTymn-SQcZPLjm1-55FG-1gnnMw/view)
 
 ---
 
